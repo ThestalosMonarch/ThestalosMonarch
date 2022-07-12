@@ -1,8 +1,10 @@
 - 👋 Hi, @ThestalosMonarch, or in the real world Lucas!
 - 👀 I’m interested in C#, Uipath, Project and Process for Development and Automation! (As you can see for my nickname from Yu-gi-Oh!)
-- 🌱 I’m currently learning javascript and the framework Vue.JS
+- 🌱 I’m currently learning ASP.NET and Entity Framework; 
 - 💞️ I’m looking to collaborate on C# projects, vue.js projects and Uipath Projects!
 - 📫 How to reach me ...
+
+https://www.linkedin.com/in/lucasdasilvabarros/
 
 <!---
 ThestalosMonarch/ThestalosMonarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
